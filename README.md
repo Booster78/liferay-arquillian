@@ -27,9 +27,9 @@ from /sample-arquillian project run
 You should have :
 
 
-    Running fr.ippon.cwp.LiferayArquillianTest
-    ….
-    ….
+    Running fr.booster.arquillian.LiferayArquillianTest
+    â€¦.
+    â€¦.
     Infos: Connecting to JMX at service:jmx:rmi:///jndi/rmi://localhost:8099/jmxrmi
     Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.082 sec
 
